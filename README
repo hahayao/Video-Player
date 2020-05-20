@@ -1,0 +1,3 @@
+Video Player contains two folder. 
+One is Applying Adaptive clustering method and stiching to create synopsis image. (Xcode)
+One is the GUI of the video player. (Qt)
